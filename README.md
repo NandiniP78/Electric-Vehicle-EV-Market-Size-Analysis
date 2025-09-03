@@ -14,7 +14,7 @@ The EV industry is growing rapidly with increasing adoption worldwide. This anal
 The notebook provides insights into how EV technology and adoption are evolving, supporting data-driven decision-making for stakeholders in the automotive and energy sectors.
 
 ## Dataset
-- **Source**: Publicly available dataset of registered Electric Vehicles from [Data.gov]{https://data.gov/}
+- **Source**: Publicly available dataset of registered Electric Vehicles from [Data.gov](https://data.gov/)
 - **Contents**: Includes fields such as model year, make, model, EV type, electric range, and geographical location.  
 - **Cleaning**: Null values were minimal and safely dropped before analysis.  
 
