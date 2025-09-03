@@ -33,3 +33,4 @@ The notebook provides insights into how EV technology and adoption are evolving,
 - **NumPy** – numerical computation  
 - **Scikit-learn** – prediction & modeling  
 
+Case Study [credit](https://amanxai.com/2024/03/18/electric-vehicles-market-size-analysis-using-python/)
